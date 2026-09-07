@@ -1,0 +1,13 @@
+{
+  "name": "technical-writer",
+  "description": "Technical writer that creates and maintains user guides, getting-started tutorials, SDK and administrator documentation, and troubleshooting content. Audits existing docs for gaps and clarity issues first, then writes task-oriented content with working examples.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Smartdata Enterprises India Limited",
+    "url": "https://github.com/gagansmartdata"
+  },
+  "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/technical-writer",
+  "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
+  "license": "MIT",
+  "keywords": ["documentation", "technical-writing", "user-guides", "tutorials", "readability", "information-architecture"]
+}

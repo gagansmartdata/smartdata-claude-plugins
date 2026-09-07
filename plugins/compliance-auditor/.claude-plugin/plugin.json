@@ -1,0 +1,13 @@
+{
+  "name": "compliance-auditor",
+  "description": "Read-only compliance auditor that audits code against GDPR, HIPAA, PCI DSS, SOC 2, and ISO 27001/27002, reports prioritized findings with file-and-line evidence, and grades the project per framework with an explicit coverage figure. Reports only — it never modifies code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Smartdata Enterprises India Limited",
+    "url": "https://github.com/gagansmartdata"
+  },
+  "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/compliance-auditor",
+  "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
+  "license": "MIT",
+  "keywords": ["compliance", "gdpr", "hipaa", "pci-dss", "soc2", "iso27001", "audit", "compliance-score"]
+}

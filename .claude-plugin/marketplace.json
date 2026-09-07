@@ -2,10 +2,10 @@
   "name": "smartdata-plugins",
   "owner": {
     "name": "Smartdata Enterprises India Limited",
-    "url": "https://github.com/smartdataenterprises"
+    "url": "https://github.com/gagansmartdata"
   },
   "description": "Claude Code plugins published by Smartdata Enterprises",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "plugins": [
     {
       "name": "code-improver",
@@ -15,13 +15,90 @@
       "version": "1.0.0",
       "author": {
         "name": "Smartdata Enterprises India Limited",
-        "url": "https://github.com/smartdataenterprises"
+        "url": "https://github.com/gagansmartdata"
       },
-      "homepage": "https://github.com/smartdataenterprises/smartdata-plugins/tree/main/plugins/code-improver",
-      "repository": "https://github.com/smartdataenterprises/smartdata-plugins",
+      "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/code-improver",
+      "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
       "license": "MIT",
       "category": "code-quality",
-      "tags": ["code-review", "refactoring", "performance", "readability", "static-analysis"]
+      "tags": [
+        "code-review",
+        "refactoring",
+        "performance",
+        "readability",
+        "static-analysis"
+      ]
+    },
+    {
+      "name": "technical-writer",
+      "displayName": "Technical Writer",
+      "source": "./plugins/technical-writer",
+      "description": "Technical writer for user guides, getting-started tutorials, SDK and admin docs, and troubleshooting content \u2014 audits existing docs for gaps first.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Smartdata Enterprises India Limited",
+        "url": "https://github.com/gagansmartdata"
+      },
+      "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/technical-writer",
+      "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
+      "license": "MIT",
+      "category": "documentation",
+      "tags": [
+        "documentation",
+        "technical-writing",
+        "user-guides",
+        "tutorials",
+        "readability",
+        "information-architecture"
+      ]
+    },
+    {
+      "name": "security-auditor",
+      "displayName": "Security Auditor",
+      "source": "./plugins/security-auditor",
+      "description": "Read-only application security auditor that finds exploitable weaknesses in code and configuration \u2014 injection, broken auth, insecure crypto, secrets, SSRF \u2014 with the attack path traced for each finding.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Smartdata Enterprises India Limited",
+        "url": "https://github.com/gagansmartdata"
+      },
+      "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/security-auditor",
+      "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
+      "license": "MIT",
+      "category": "security",
+      "tags": [
+        "security",
+        "appsec",
+        "vulnerability-assessment",
+        "code-security",
+        "threat-modeling",
+        "owasp"
+      ]
+    },
+    {
+      "name": "compliance-auditor",
+      "displayName": "Compliance Auditor",
+      "source": "./plugins/compliance-auditor",
+      "description": "Read-only compliance auditor that audits code against GDPR, HIPAA, PCI DSS, SOC 2, and ISO 27001/27002, reporting prioritized findings with evidence and a per-framework compliance grade.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Smartdata Enterprises India Limited",
+        "url": "https://github.com/gagansmartdata"
+      },
+      "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/compliance-auditor",
+      "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
+      "license": "MIT",
+      "category": "security",
+      "tags": [
+        "compliance",
+        "gdpr",
+        "hipaa",
+        "pci-dss",
+        "soc2",
+        "iso27001",
+        "audit",
+        "compliance-score"
+      ]
     }
   ]
 }

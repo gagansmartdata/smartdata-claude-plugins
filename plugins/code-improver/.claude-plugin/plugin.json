@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": {
     "name": "Smartdata Enterprises India Limited",
-    "url": "https://github.com/smartdataenterprises"
+    "url": "https://github.com/gagansmartdata"
   },
-  "homepage": "https://github.com/smartdataenterprises/smartdata-plugins/tree/main/plugins/code-improver",
-  "repository": "https://github.com/smartdataenterprises/smartdata-plugins",
+  "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/code-improver",
+  "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
   "license": "MIT",
   "keywords": ["code-review", "refactoring", "performance", "readability", "best-practices"]
 }

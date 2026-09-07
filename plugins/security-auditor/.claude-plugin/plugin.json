@@ -1,0 +1,13 @@
+{
+  "name": "security-auditor",
+  "description": "Read-only application security auditor that finds exploitable weaknesses in source code and configuration — injection, broken authentication and authorization, insecure cryptography, hardcoded secrets, SSRF, unsafe deserialization, and dependency risk. Traces the attack path for each finding and ranks by exploitability. Reports only; it never modifies code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Smartdata Enterprises India Limited",
+    "url": "https://github.com/gagansmartdata"
+  },
+  "homepage": "https://github.com/gagansmartdata/smartdata-claude-plugins/tree/main/plugins/security-auditor",
+  "repository": "https://github.com/gagansmartdata/smartdata-claude-plugins",
+  "license": "MIT",
+  "keywords": ["security", "appsec", "vulnerability-assessment", "code-security", "threat-modeling", "owasp"]
+}
