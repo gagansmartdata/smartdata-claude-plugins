@@ -1,6 +1,6 @@
 # Smartdata Plugins
 
-Claude Code plugins published by [Smartdata Enterprises](https://github.com/smartdataenterprises).
+Claude Code plugins published by [Gagan](https://gagansmartdata.github.io/).
 
 ## Install
 
