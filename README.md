@@ -5,8 +5,8 @@ Claude Code plugins published by [Smartdata Enterprises](https://github.com/smar
 ## Install
 
 ```
-/plugin marketplace add smartdataenterprises/smartdata-plugins
-/plugin install code-improver@smartdata-plugins
+/plugin marketplace add gagansmartdata/smartdata-claude-plugins
+/plugin install code-improver@smartdata-claude-plugins
 ```
 
 If the install summary says `Run /reload-plugins to activate.`, run that. Otherwise you're done — no restart needed.
@@ -88,7 +88,7 @@ Fork and edit [`plugins/code-improver/agents/code-improver.md`](plugins/code-imp
 ## Repository layout
 
 ```
-smartdata-plugins/
+smartdata-claude-plugins/
 ├── .claude-plugin/
 │   └── marketplace.json          # marketplace manifest — lists the plugins below
 ├── plugins/
