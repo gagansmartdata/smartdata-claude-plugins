@@ -1,0 +1,27 @@
+{
+  "name": "smartdata-plugins",
+  "owner": {
+    "name": "Smartdata Enterprises India Limited",
+    "url": "https://github.com/smartdataenterprises"
+  },
+  "description": "Claude Code plugins published by Smartdata Enterprises",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "code-improver",
+      "displayName": "Code Improver",
+      "source": "./plugins/code-improver",
+      "description": "Read-only code reviewer that suggests improvements for readability, performance, and best practices.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Smartdata Enterprises India Limited",
+        "url": "https://github.com/smartdataenterprises"
+      },
+      "homepage": "https://github.com/smartdataenterprises/smartdata-plugins/tree/main/plugins/code-improver",
+      "repository": "https://github.com/smartdataenterprises/smartdata-plugins",
+      "license": "MIT",
+      "category": "code-quality",
+      "tags": ["code-review", "refactoring", "performance", "readability", "static-analysis"]
+    }
+  ]
+}

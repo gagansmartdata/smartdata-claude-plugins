@@ -1,0 +1,13 @@
+{
+  "name": "code-improver",
+  "description": "Read-only code reviewer that scans files and suggests concrete improvements for readability, performance, and best practices. Explains each issue, shows the current code, and provides an improved version.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Smartdata Enterprises India Limited",
+    "url": "https://github.com/smartdataenterprises"
+  },
+  "homepage": "https://github.com/smartdataenterprises/smartdata-plugins/tree/main/plugins/code-improver",
+  "repository": "https://github.com/smartdataenterprises/smartdata-plugins",
+  "license": "MIT",
+  "keywords": ["code-review", "refactoring", "performance", "readability", "best-practices"]
+}
