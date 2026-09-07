@@ -1,4 +1,4 @@
-# Smartdata Plugins
+# smartData Plugins
 
 Claude Code plugins published by [Gagan](https://gagansmartdata.github.io/).
 
